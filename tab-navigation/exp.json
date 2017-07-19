@@ -1,0 +1,25 @@
+{
+  "name": "react-navigation-expo",
+  "description": "An empty new project",
+  "slug": "react-navigation-expo",
+  "privacy": "public",
+  "sdkVersion": "17.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "./assets/icons/app.png",
+  "loading": {
+    "icon": "./assets/icons/loading.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  },
+  "androidStatusBar": {
+    "barStyle": "light-content",
+    "backgroundColor": "#2196F3"
+  }
+}
