@@ -1,4 +1,4 @@
-# This is simple react native counter app to get of mobX state management library and its core components  
+# This is simple react native counter app to get sense of mobX state management library and its core components need to plugged with any react native app  
 
 
 $ yarn install
